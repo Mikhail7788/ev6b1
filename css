@@ -34,7 +34,7 @@ a:hover {
   }
 
   .header {
-    background: #000000 url(images/football_767.jpg) center no-repeat;
+    background: #000000 url(/images/football_767.jpg) center no-repeat;
     position: relative;
     background-size: cover;
   }
