@@ -27,7 +27,7 @@ a:hover {
   color: #ffe;
 }
 
-
+@media (max-width: 640px) {
   .wrapper {
     width: 280px;
     margin: auto;
@@ -86,6 +86,7 @@ a:hover {
     max-width: 280px;
     padding: 0 0 89px 45px;
   }
+}
 
 
 
